@@ -32,6 +32,7 @@ public class Pizza {
         this.isCheeseAdded = false;
         this.isToppingAdded = false;
         this.isTaeAwayAdded = false;
+        this.isBillGenreted = false;
 
         this.bill = "Base Price Of The Pizza: " + this.price + "\n";
 
